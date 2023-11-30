@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡‹Î
+p	java:S116!"VRename this field "event_theme" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ìÑùùÿÿÿÿ
+p	java:S116$"[Rename this field "Nbre_participant" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­”¥¸
+j	java:S116*"URename this field "date_event" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾—§º
+V	java:S125("<This block of commented-out lines of code should be removed.(ıÁ‹şÿÿÿÿ
+^
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.annotation.JsonIgnore'.(ş‘‹„
+E
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ
